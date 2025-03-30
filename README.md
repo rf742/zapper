@@ -6,8 +6,8 @@ Electrostatics calculator for point charges
 
 ### Project
 
-[] create makefile to automate running, building, testing
-[] create guide for basic usage in README.md
+[ ] create makefile to automate running, building, testing
+[ ] create guide for basic usage in README.md
 
 ### Library
 
