@@ -11,15 +11,14 @@ Electrostatics calculator for point charges
 
 ### Library
 
-- [] Clean up internal library
-- [] add more tests
-- [] add method to compute electric field at arbitrary point, given array of charges
+- [ ] Clean up internal library
+- [ ] add more tests
+- [ ] add method to compute electric field at arbitrary point, given array of charges
 
 ### CLI
 
-- [] pull in go flag package
-  - [] allow specification of csv file to pull data from
-  - [] allow specification of csv file to output data to
-  - [] create useful help messages
-- [] make manpage for usage?
-
+- [ ] pull in go flag package
+  - [ ] allow specification of csv file to pull data from
+  - [ ] allow specification of csv file to output data to
+  - [ ] create useful help messages
+- [ ] make manpage for usage?
